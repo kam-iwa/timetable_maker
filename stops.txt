@@ -1,0 +1,17 @@
+Lublin;0
+Lublin Pó³nocny;2
+Œwidnik Miasto;2
+Œwidnik Wschód;2
+Minkowice;2
+Podzamcze;2
+Dominów;2
+Jaszczów;2
+Biskupice;2
+Trawniki;2
+Wólka Kañska;2
+Kanie;2
+Zalesie Krasieñskie;2
+Rejowiec;2
+Zawadówka;2
+Che³m Miasto;2
+Che³m;0
